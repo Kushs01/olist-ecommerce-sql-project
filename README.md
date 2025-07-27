@@ -1,13 +1,13 @@
 # 🛒 Olist E-Commerce Analytics (SQL-Only Project)
 
-## 📌 Project Summary
+## Project Summary
 Analyzed over 100,000 Brazilian e-commerce transactions from the Olist platform using advanced SQL queries to uncover key business insights across customer retention, delivery performance, payment methods, product category performance, and revenue loss due to cancellations.
 
 This project simulates a real-world analytics engagement — using only SQL — and showcases analytical thinking, data storytelling, and operational diagnosis without BI tools or scripting.
 
 ---
 
-## 📊 Business Objectives
+## Business Objectives
 - Track monthly order trends, cancellations, and growth signals
 - Identify top product categories by revenue and average value
 - Understand customer repeat behavior and retention rate
@@ -18,17 +18,17 @@ This project simulates a real-world analytics engagement — using only SQL — 
 
 ---
 
-## 🧠 Key Insights
-- 📉 Only ~3.2% of customers placed repeat orders → Loyalty is low  
-- 🚚 Northern states (e.g., Alagoas, Maranhão) face 15–20% delivery delays  
-- 💳 Credit cards dominate (74%+ share), but Boleto holds strong at 18%  
-- 📦 Health & Beauty and Watches are high-value categories  
-- ⭐ Delayed deliveries cause a measurable drop in review scores (3.8 avg)  
-- 💸 Over R$ 120,000 lost in canceled orders across all states
+## Key Insights
+- Only ~3.2% of customers placed repeat orders → Loyalty is low  
+- Northern states (e.g., Alagoas, Maranhão) face 15–20% delivery delays  
+- Credit cards dominate (74%+ share), but Boleto holds strong at 18%  
+- Health & Beauty and Watches are high-value categories  
+- Delayed deliveries cause a measurable drop in review scores (3.8 avg)  
+- Over R$ 120,000 lost in canceled orders across all states
 
 ---
 
-## 🛠️ Tools & Stack
+##Tools & Stack
 - **SQL Engine**: PostgreSQL  
 - **Editor**: DBeaver  
 - **Dataset**: Brazilian E-Commerce Public Dataset (from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))  
@@ -36,7 +36,7 @@ This project simulates a real-world analytics engagement — using only SQL — 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 olist-ecommerce-sql-project/
@@ -56,10 +56,10 @@ olist-ecommerce-sql-project/
 ```
 ---
 
-## 📬 Author
+## Author
 
 **Kushagra Sudhir**  
 Ex-Investment Banking Analyst | Transitioning to Analytics  
-📍 India | 💼 Finance x SQL x Data  
-📧 i17kushagras@iimidr.ac.in
+📍 India | Finance x SQL x Data  
+ i17kushagras@iimidr.ac.in
 
